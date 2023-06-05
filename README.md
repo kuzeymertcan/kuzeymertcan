@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer from Turkey ⚡</h3>
 <h3 align="center">I'm studying Computer Engineering at Karabuk University 📚</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
